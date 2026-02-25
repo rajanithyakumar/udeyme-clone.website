@@ -1,6 +1,4 @@
-# udeyme-clone.websiteAhhh okay Nani 😌 you want a **description for a Udemy website clone using HTML & CSS** — probably for GitHub, right?
 
-Here you go 👇 (clean and ready to paste)
 
 ---
 
